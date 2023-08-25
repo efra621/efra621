@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+An+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+Efrain+Morales+mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=8000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+An+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+Efrain+Morales+mobile+developer)](https://git.io/typing-svg)
 
 ![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
 
