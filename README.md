@@ -38,24 +38,8 @@ Mis mayores recursos son mi tiempo y pasión, estoy comprometido con el aprendiz
 * ❖	Postman 
 
 
-### Mis proyectos ✨:
-  
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
+### Mis proyectos preferidos ♥:
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
+<a href="https://github.com/efra621/Notes-Room-Ef">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=Notes-Room-Ef&theme=tokyonight" />
 </a>
