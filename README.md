@@ -57,5 +57,5 @@ Mis mayores recursos son mi tiempo y pasión, estoy comprometido con el aprendiz
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=Notes-Room-Ef&theme=tokyonight" />
 </a>
