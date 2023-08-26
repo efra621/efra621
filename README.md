@@ -1,16 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
-
-
 # Hola soy Efraín! 👋
 
-
 <div align="center">
-
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-
+<img src="https://media.licdn.com/dms/image/D4D16AQHm8cOyHRYT7g/profile-displaybackgroundimage-shrink_350_1400/0/1693028217680?e=1698278400&v=beta&t=nJmCsgxahkLH64q9zxFUBrtB86EQAcUqZx0_TBoAjtk" height="200"/>
 </div>
 
 <h3 align="center">Connect with me:</h3>
