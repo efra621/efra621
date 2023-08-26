@@ -1,68 +1,61 @@
-<div>
-  <div align="center">
-    <h1>Efraín Morales</h1>
-    <p>Android Developer</p>
-  </div>
+<!--suppress HtmlDeprecatedAttribute -->
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
-  <div>
-    <h2>Sobre Mí</h2>
-    <p>
-      Desarrollador de Android especializado en el desarrollo de Front End.
-      Mis mayores recursos son mi tiempo y pasión, estoy comprometido con el aprendizaje continuo y trabajo en equipo, con gran adaptabilidad ante situaciones nuevas y desafiantes.
-      Buscando expandir mis habilidades y contribuir al grupo asignado.
-    </p>
-  </div>
 
-  <div>
-    <h2>PROYECTOS</h2>
-    <h3>Gratum – Detalle</h3>
-    <p>
-      Gratum, como primer proyecto, fue una aplicación desarrollada y publicada en la PlayStore en el año 2020, con el objetivo de reunir comercios locales, orientados a la venta de ropa, en Salta Argentina.
-      Durante el desarrollo se utilizó, como lenguaje de programación, Java aplicando POO y el patrón de arquitectura MVP; Firebase (FireStore) como base de datos noSql, FirebaseAuth en la autenticación de usuarios e implementación de Cloud Message y Storage; y herramientas adicionales como: Glide, Lottie, librerías de GitHub y similares.
-    </p>
-    <h3>Kawaishi Ryu – Detalle</h3>
-    <p>
-      Kawaishi Ryu es una aplicación, actualmente en últimas etapas de desarrollo, para los dojos de la provincia de Salta. Cuyo objetivo es proporcionar información (de técnicas y teoría) y ubicación de estos.
-      Se utiliza el lenguaje de programación Kotlin, aplicando programación reactiva mediante corrutinas y flows en tiempo real para utilizar datos asíncronos, esta vez con el patrón de arquitectura MVVM. Implementando librerías adicionales y lo mencionado anteriormente de Firebase.
-    </p>
-  </div>
+# Hola soy Efraín! 👋
 
-  <div>
-    <h2>HABILIDADES</h2>
-    <ul>
-      <li>KOTLIN</li>
-      <li>JAVA</li>
-      <li>POO</li>
-      <li>GitHub, Git</li>
-      <li>Rest APIs</li>
-      <li>Firebase</li>
-      <li>Room/SQlite/mySql</li>
-      <li>UX - UI</li>
-      <li>MVP, MVC, MVVM</li>
-      <li>Postman</li>
-    </ul>
-  </div>
 
-  <div>
-    <h2>EDUCACIÓN</h2>
-    <p>UTN, Tucumán Argentina. Ingeniería en sistemas de información (2021-actualidad)</p>
-  </div>
+<div align="center">
 
-  <div>
-    <h2>IDIOMAS</h2>
-    <ul>
-      <li>Español (Nativo)</li>
-      <li>Inglés (Básico)</li>
-    </ul>
-  </div>
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
 
-  <div>
-    <h2>CONTACTO</h2>
-    <p>
-      Teléfono: +54 9 387 602 8343
-      LinkedIn: Efraín Morales Contreras
-      Email: eframorales421@gmail.com
-      GitHub: @efra621
-    </p>
-  </div>
 </div>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/efrain-morales-contrera-1848801ba)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eframorales421@gmail.com)
+  
+</div>
+
+## 📖 Acerca de mi
+Desarrollador de Android especializado en el desarrollo de Front End. 
+Mis mayores recursos son mi tiempo y pasión, estoy comprometido con el aprendizaje continuo y trabajo en equipo, con gran adaptabilidad ante situaciones nuevas y desafiantes. Buscando expandir mis habilidades y contribuir al grupo asignado.
+
+* ❖	KOTLIN 
+* ❖	JAVA
+* ❖	POO
+* ❖	GitHub, Git
+* ❖	Rest APIs
+* ❖	Firebase
+* ❖	Room/SQlite/mySql
+* ❖	UX - UI
+* ❖	MVP, MVC, MVVM
+* ❖	Postman 
+
+
+### Mis proyectos ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+</a>
