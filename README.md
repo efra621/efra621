@@ -1,10 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hola!👋
 
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQHm8cOyHRYT7g/profile-displaybackgroundimage-shrink_350_1400/0/1693028217680?e=1698278400&v=beta&t=nJmCsgxahkLH64q9zxFUBrtB86EQAcUqZx0_TBoAjtk" height="200"/>
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
