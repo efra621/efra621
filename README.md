@@ -27,10 +27,10 @@ Mis mayores recursos son mi tiempo y pasión, estoy comprometido con el aprendiz
 
 ### Mis proyectos preferidos ♥:
 
-<a href="https://github.com/efra621/Notes-Room-Ef">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=Notes-Room-Ef&theme=tokyonight" style="height: 150px; width: 300px;" />
-</a>
-
 <a href="https://github.com/efra621/KawaishiRyuAppNew">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=KawaishiRyuAppNew&theme=tokyonight" style="height: 150px; width: 300px;" />
+</a>
+
+<a href="https://github.com/efra621/Notes-Room-Ef">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=Notes-Room-Ef&theme=tokyonight" style="height: 150px; width: 300px;" />
 </a>
