@@ -30,3 +30,7 @@ Mis mayores recursos son mi tiempo y pasión, estoy comprometido con el aprendiz
 <a href="https://github.com/efra621/Notes-Room-Ef">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=Notes-Room-Ef&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/efra621/KawaishiRyuAppNew">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efra621&repo=KawaishiRyuAppNew&theme=tokyonight" />
+</a>
